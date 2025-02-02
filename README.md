@@ -1,4 +1,4 @@
-# Deepfake-based Covert Data Acquisition System Research 🔒
+# Deepfake-based Covert Data Acquisition System 🔒
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Varunpoojari/deepfake-data-acquisition-research)
 ![GitHub](https://img.shields.io/github/license/Varunpoojari/deepfake-data-acquisition-research)
