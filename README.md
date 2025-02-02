@@ -96,8 +96,8 @@ def detect_deepfake(media_sample):
 
 | Name | Institution | Role |
 |------|-------------|------|
-| Alfiya Sayyad | MIT World Peace University | Lead Researcher |
-| Varun Poojari | MIT World Peace University | Research Associate |
+| Varun Poojari | MIT World Peace University | Lead Researcher |
+| Alfiya Sayyad | MIT World Peace University | Research Associate |
 | Dr. Dhanashri Wategaonkar | MIT World Peace University | Research Supervisor |
 | Kaif Shaikh | Anjuman-I-Islam's Kalsekar Technical Campus | Research Associate |
 | Arslaan Sayyad | Anjuman-I-Islam's Abdul Razzaq Kalsekar Polytechnic | Research Associate |
