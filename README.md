@@ -7,9 +7,7 @@
 
 > 🔍 Academic research exploring deepfake technology applications, detection methods, and security implications in cybersecurity.
 
-<p align="center">
-  <img src="/api/placeholder/800/400" alt="Project Architecture" width="800"/>
-</p>
+
 
 ## 📑 Table of Contents
 - [Overview](#-overview)
